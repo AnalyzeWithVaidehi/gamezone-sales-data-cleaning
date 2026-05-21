@@ -1,4 +1,4 @@
-# 🎮 GameZone Data Cleaning: Sourcing, Auditing, and Fixing 20k+ Raw E-Commerce Records
+# 🎮 GameZone Data Cleaning: Auditing and Fixing 20k+ Raw E-Commerce Records
 
 ---
 
